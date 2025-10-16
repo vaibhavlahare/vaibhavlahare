@@ -1,4 +1,4 @@
-![Devops Banner] https://github.com/vaibhavlahare/vaibhavlahare/raw/main/Devops.jpg
+![DevOps Banner]https://github.com/vaibhavlahare/vaibhavlahare/blob/main/Devops.jpg?raw=true
 
 <h1 align="center">Hi 👋, I'm Vaibhav Lahare</h1>
 <h3 align="center">DevOps & Cloud Engineer | AWS | Linux | CI/CD | Jenkins | Docker</h3>
