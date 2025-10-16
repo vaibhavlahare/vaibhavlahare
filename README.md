@@ -1,5 +1,3 @@
-![DevOps Banner](https://miro.medium.com/v2/resize:fit:1400/1*Fsj_wHjzE7Tq1bXf0CkQhA.png)
-
 <h1 align="center">Hi 👋, I'm Vaibhav Lahare</h1>
 <h3 align="center">DevOps & Cloud Engineer | AWS | Linux | CI/CD | Jenkins | Docker</h3>
 
